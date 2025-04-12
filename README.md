@@ -3,12 +3,6 @@
 A **fully functional and responsive calculator** built with **HTML, CSS, and JavaScript**, capable of performing basic arithmetic operations (Addition, Subtraction, Multiplication, Division). This project is designed to help strengthen your frontend web development skills and your understanding of JavaScript event handling and DOM manipulation.
 
 ---
-
-##  Live Demo
- [Click here to try the Calculator](#) *(Add link once deployed on GitHub Pages, Netlify, etc.)*
-
----
-
 ---
 
 ## Features
